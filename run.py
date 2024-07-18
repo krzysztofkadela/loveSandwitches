@@ -19,4 +19,14 @@ sales = SHEET.worksheet('sales')
 
 data = sales.get_all_values()
 
+
 print(data)
+
+def ask_for_print_qestions(data):
+    """
+    starts a quiz by asking question
+    """
+    print(f"co chcesz zrobic {data}")
+
+ask_for_print_qestions(data)
+
