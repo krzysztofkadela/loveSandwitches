@@ -6,4 +6,4 @@ __pycache__/
 *.py[cod]
 node_modules/
 .github/
-lovesandwitches-429620-4afdd438e00f.json
+creds.json
